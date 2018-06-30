@@ -1,4 +1,4 @@
-# DataTypes in Python
+# Operators in Python
 
 
 
