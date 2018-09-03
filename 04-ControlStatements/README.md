@@ -2,7 +2,7 @@
 If we want to change the flow of execution or we decide to execute specific statements from 
 the set of statements we use "Control Statements"
 
-** Control Statements available in Python**
+**Control Statements available in Python**
 - if statement
 - if-else statement
 - if-elif-else statement
@@ -22,7 +22,6 @@ the set of statements we use "Control Statements"
 	Every condition tested by if statement starts with colon(:)
 	After every condition statement there are 4 spaces left in the next line.
 	The statements with same indentation belong to same group is called *suite*	
-
 	```
 
 ###### 2. If-else Statement
