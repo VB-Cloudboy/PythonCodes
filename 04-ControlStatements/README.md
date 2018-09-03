@@ -30,6 +30,8 @@ the set of statements we use "Control Statements"
 ```
 	The if-else statement executes set of statements depending on the boolean state(True/False).
 	Again, every condition statement there are 4 spaces left in the next line.
+	>04-Even_Odd
+	>05-Dhoni_QA
 ```
 
 
