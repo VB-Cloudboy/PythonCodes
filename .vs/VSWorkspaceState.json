@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\01-Datatypes",
     "\\04-ControlStatements"
   ],
-  "SelectedNode": "\\04-ControlStatements\\01-Area_Of_Circle.py",
+  "SelectedNode": "\\04-ControlStatements\\04-Even_Odd.py",
   "PreviewInSolutionExplorer": false
 }
