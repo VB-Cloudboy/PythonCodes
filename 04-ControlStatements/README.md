@@ -36,8 +36,15 @@ the set of statements we use "Control Statements"
 
 
 ###### 3. If-elif-else Statement
+```
+	If there is a need to test multiple conditions and executes statements based on same conditions.
+	we use If-elif-else statements. 
+	>06-Indian_Cricket_JerseyNo
+```
 
 ###### 4. While Loop
+```
+	
 
 ###### 5. For Loop
 
