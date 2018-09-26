@@ -21,29 +21,18 @@ but the actual difference is tuples are immutable and lists are mutable.
 
 ###### 1. Nested Tuples
 ```
-	Indentation is very important in python.
-	The " if " statment id used to identifuy whether the condition is True or False.
-	Every condition tested by if statement starts with colon(:)
-	After every condition statement there are 4 spaces left in the next line.
-	The statements with same indentation belong to same group is called *suite*	
-	> 02-Number2Word
-	> 03-Suite_Statements
+
 ```
 
 ###### 2. Addition of an elements in a Tuple 
 ```
-	The if-else statement executes set of statements depending on the boolean state(True/False).
-	Again, every condition statement there are 4 spaces left in the next line.
-	>04-Even_Odd
-	>05-Dhoni_QA
+
 ```
 
 
 ###### 3. Modification of an element in a Tuple
 ```
-	If there is a need to test multiple conditions and executes statements based on same conditions.
-	we use If-elif-else statements. 
-	>06-Indian_Cricket_JerseyNo
+
 ```
 
 ###### 4. Deleting an element from a Tuple
