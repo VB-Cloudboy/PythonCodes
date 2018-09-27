@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01-Datatypes",
-    "\\04-ControlStatements"
+    "\\10-Tuples"
   ],
-  "SelectedNode": "\\04-ControlStatements\\06-Indian_Cricket_JerseyNo.py",
+  "SelectedNode": "\\10-Tuples\\02_Access-Tuple.py",
   "PreviewInSolutionExplorer": false
 }
