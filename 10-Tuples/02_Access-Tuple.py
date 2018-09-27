@@ -16,4 +16,3 @@ print(mytuple[1:3])
 print(mytuple[::-3])
 print(mytuple[-1::-5])
 
-#4. 
