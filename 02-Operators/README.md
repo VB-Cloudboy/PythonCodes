@@ -1,4 +1,18 @@
 # Operators in Python
 
-All Data realated to Operators are updated and viewed in this section. 
+
+
+
+**Types of Operators in Python**
+- Arithmetic operators
+- Assignment operators
+- Unary minus operator
+- Relational operators
+- Logical operators
+- Boolean operators
+- Bitwise operators
+- Membership opeartors
+- Identity operators
+
+
 
