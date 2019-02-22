@@ -16,6 +16,8 @@ such used character are called "Operators"
 - Membership opeartors
 - Identity operators
 
+![alt text](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
+
 ###### 1. Aritmetic Operators
 ```
 	In general there are seven arithmetic operators available and those are 
@@ -29,7 +31,4 @@ such used character are called "Operators"
 	| % | Modulus Operator |
 	| ** | Exponent Operator |
 	| // | Integer Division Operator |
-
-	![alt text](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
-
 ```
