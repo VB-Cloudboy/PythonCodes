@@ -102,7 +102,7 @@ and list can store different type of elements.
 	
 ```
 
-** Lists Pattern and their Description **
+**Lists Pattern and their Description**
 
 | Pattern | Description |
 | --- | --- |
