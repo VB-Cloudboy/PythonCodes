@@ -22,13 +22,4 @@ such used character are called "Operators"
 ```
 	In general there are seven arithmetic operators available and those are 
 	explained underneath
-	| Operator Symbol | Operator Name |
-	| --- | --- |
-	| + | Addition Operator |
-	| - | Subtraction Operator |
-	| * | Multiplication Operator |
-	| / | Division Operator |
-	| % | Modulus Operator |
-	| ** | Exponent Operator |
-	| // | Integer Division Operator |
-```
+
