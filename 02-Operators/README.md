@@ -20,16 +20,15 @@ such used character are called "Operators"
 ```
 	In general there are seven arithmetic operators available and those are 
 	explained underneath
-	| Operator Symbol | Operator Name |
-	| --- | --- |
-	| + | Addition Operator |
-	| - | Subtraction Operator |
-	| * | Multiplication Operator |
-	| / | Division Operator |
-	| % | Modulus Operator |
-	| ** | Exponent Operator |
-	| // | Integer Division Operator |
-
-	![alt text](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
-
 ```
+| Operator Symbol | Operator Name |
+| --- | --- |
+| + | Addition Operator |
+| - | Subtraction Operator |
+| * | Multiplication Operator |
+| / | Division Operator |
+| % | Modulus Operator |
+| ** | Exponent Operator |
+| // | Integer Division Operator |
+
+![screenshot](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
