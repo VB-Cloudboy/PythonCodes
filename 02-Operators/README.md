@@ -31,4 +31,5 @@ such used character are called "Operators"
 | ** | Exponent Operator |
 | // | Integer Division Operator |
 
-![screenshot](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
+![image](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
+![image](http://s1.1zoom.net/big0/334/351132-sepik.jpg)
