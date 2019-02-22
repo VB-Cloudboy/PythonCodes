@@ -30,6 +30,4 @@ such used character are called "Operators"
 | % | Modulus Operator |
 | ** | Exponent Operator |
 | // | Integer Division Operator |
-
-![image](https://github.com/VB-Cloudboy/PythonCodes/tree/master/02-Operators/arithmetic-flowchart.png)
-![image](http://s1.1zoom.net/big0/334/351132-sepik.jpg)
+![image](https://s3.ap-south-1.amazonaws.com/vbpythoncodes/arithmetic-flowchart.png)
