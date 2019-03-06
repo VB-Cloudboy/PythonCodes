@@ -84,7 +84,7 @@ such used character are called "Operators"
 | 6 | << , >> | Bitwise Left/Right Shift |
 | 7 | & | Bitwise AND | 
 | 8 | ^ | Bitwise XOR |
-| 9 | | | Bitwise OR |
+| 9 | "|" | Bitwise OR |
 | 10 | >, >= , < , <= , == , != | Relational Operator
 | 11 | =, %=, /= , //=, -= , += , *= , **= | Assignment operator|
 | 12 | is, is not | Identity Operator |
