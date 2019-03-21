@@ -6,3 +6,4 @@ helps to display the desired reults in output.
 - Output Statement
 
 ![image] (https://s3.ap-south-1.amazonaws.com/vbpythoncodes/OutputStatements.png)
+
